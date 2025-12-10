@@ -1,16 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset0 HelveticaNeue-Bold;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab560
-\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+ML Movie Recommendation System\
 
-\f0\fs26 \cf0 ML Movie Recommendation System\
-\
 A content-based movie recommendation system built with Python.  \
 It analyzes movie metadata and uses TF\'96IDF with cosine similarity to suggest movies similar to a user\'92s chosen title.\
-\
+
 Objective\
 \
 Given a movie name, recommend a list of similar movies based on:\
